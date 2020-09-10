@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LX2Qyd5tSfey0/jbPHLekletyCVwB5y5ewnnLX4rR0csR1dlNk0Bva9qoPz5g5/4KYuSLuCkbxbwDJR4Ezk4ng==",
+  "success": true,
+  "projectFilePath": "/media/cyb3r/Programas/Repositorios/NewsAPI/AspNetCoreWebAPI/AspNetCoreWebAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/cyb3r/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.7/microsoft.aspnetcore.jsonpatch.3.1.7.nupkg.sha512",
+    "/home/cyb3r/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.7/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.7.nupkg.sha512",
+    "/home/cyb3r/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/cyb3r/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/cyb3r/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
